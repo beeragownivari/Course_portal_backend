@@ -1,0 +1,15 @@
+C:\backend\src\main\java\com\portal\model\Course.java
+C:\backend\src\main\java\com\portal\CoursePortalApplication.java
+C:\backend\src\main\java\com\portal\security\JwtAuthenticationFilter.java
+C:\backend\src\main\java\com\portal\controller\AuthController.java
+C:\backend\src\main\java\com\portal\model\Enrollment.java
+C:\backend\src\main\java\com\portal\model\User.java
+C:\backend\src\main\java\com\portal\repository\CourseRepository.java
+C:\backend\src\main\java\com\portal\controller\CourseController.java
+C:\backend\src\main\java\com\portal\service\AuthService.java
+C:\backend\src\main\java\com\portal\config\SecurityConfig.java
+C:\backend\src\main\java\com\portal\service\CustomUserDetailsService.java
+C:\backend\src\main\java\com\portal\repository\EnrollmentRepository.java
+C:\backend\src\main\java\com\portal\repository\UserRepository.java
+C:\backend\src\main\java\com\portal\controller\StatsController.java
+C:\backend\src\main\java\com\portal\security\JwtUtil.java
