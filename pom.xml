@@ -55,6 +55,19 @@
             <scope>runtime</scope>
         </dependency>
         <dependency>
+    <groupId>com.razorpay</groupId>
+    <artifactId>razorpay-java</artifactId>
+    <version>1.4.3</version>
+</dependency>
+
+
+<!-- org.json is typically pulled by razorpay-java, but add if needed -->
+<dependency>
+  <groupId>org.json</groupId>
+  <artifactId>json</artifactId>
+  <version>20210307</version>
+</dependency>
+        <dependency>
             <groupId>io.jsonwebtoken</groupId>
             <artifactId>jjwt-jackson</artifactId>
             <version>0.11.5</version>
