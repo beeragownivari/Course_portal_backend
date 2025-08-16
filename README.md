@@ -33,7 +33,7 @@ Authentication and authorization are implemented using **JWT tokens** for secure
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/Online_Course_Management_Portal_BackEnd.git
+git clone https://github.com/beeragownivari/Course_portal_backend.git
 
 2. Open in your IDE
 Use STS, IntelliJ IDEA, Eclipse, or VS Code (with Java support).
